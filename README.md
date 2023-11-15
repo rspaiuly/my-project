@@ -108,8 +108,8 @@ public class Rectangle {
 
 public class Square extends Rectangle {
   public void setSize(int size) {
-    super.width = size;
-    super.height = size;
+    super.setWidth = size;
+    super.setHeight = size;
   }
 }
 ```

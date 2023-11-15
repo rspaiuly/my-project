@@ -14,7 +14,7 @@
 - [Что такое ассоциация, агрегация и композиция?](#)
 - [Расскажите про раннее и позднее связывание.](#)
 ## SOLID
-- [Что такой SOLID?](#)
+- [Что такой SOLID?](#что-такой-solid)
 - [**S - Single-responsibility principle**](#)
 - [**O - Open-closed principle**](#)
 - [**L - Liskov substitution principle**](#)

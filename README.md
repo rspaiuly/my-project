@@ -20,6 +20,8 @@
 - [**L - Liskov substitution principle**](#)
 - [**I - Interface segregation principle**](#)
 - [**D - Dependency Inversion Principle**](#)
+## ООП в JAVA
+- [1. Какие виды классов есть в java?](#)
 
 ## Что такое ООП? 🧠
 
